@@ -179,7 +179,7 @@ def graphic(gff3_file):
 
     output:
 
-    GUI
+    piechart
     """
 
     try:
